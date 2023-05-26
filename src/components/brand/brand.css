@@ -1,0 +1,16 @@
+.gpt_brand {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.gpt_brand div {
+  flex: 1;
+  max-width: 150px;
+  min-width: 120px;
+  margin: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
