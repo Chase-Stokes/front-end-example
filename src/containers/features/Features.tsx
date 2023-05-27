@@ -7,7 +7,7 @@ interface IFeaturesData {
   text: string;
 }
 
-const featuresData = [
+const featuresData: IFeaturesData[] = [
   {
     title: 'Enhanced Natural Language Understanding',
     text: 'ChatGPT demonstrates a remarkable ability to understand and generate human-like text. Its advanced language model allows it to comprehend complex queries and respond with accurate and relevant information.'
