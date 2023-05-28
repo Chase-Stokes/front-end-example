@@ -3,7 +3,7 @@ import React from "react";
 import { Blog, Features, Footer, Header, Gpt, Possibility } from './containers';
 import { CallToAction, Brand, Navbar } from "./components";
 
-import './app.css';
+import './styles/App.css';
 
 const App: React.FC = () => {
   return (
