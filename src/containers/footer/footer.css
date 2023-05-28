@@ -125,6 +125,7 @@
 
   .gpt_footer_links div {
     margin: 1rem 0;
+    width: auto;
   }
 
   .gpt_footer_button p {
@@ -133,9 +134,14 @@
   }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 425px) {
   .gpt_footer_heading h1 {
     font-size: 27px;
     line-height: 38px;
   }
+
+  .gpt_footer_links_div {
+    width: auto;
+  }
+
 }

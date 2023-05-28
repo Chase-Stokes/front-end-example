@@ -21,7 +21,6 @@ const Brand: React.FC = () => {
       <div>
         <img src={shopify} alt='shopifyå' />
       </div>
-      Brand
     </div>
   );
 }
